@@ -1,0 +1,41 @@
+{
+	"name": "Rope Ninja",
+	"short_name": "Rope Ninja",
+	"description": "Re-living the adventures of Omnom through coding. Join our favourite green protagonist in this Cut the Rope clone! This game is only a demo.",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/cut-16.png",
+			"sizes": "16x16",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/cut-32.png",
+			"sizes": "32x32",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/cut-64.png",
+			"sizes": "64x64",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/cut-128.png",
+			"sizes": "128x128",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/cut-256.png",
+			"sizes": "256x256",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/cut-512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	]
+}
